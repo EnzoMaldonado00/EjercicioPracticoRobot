@@ -34,6 +34,6 @@ public class ArtistBody extends Head implements BasicTask {
 
     @Override
     public void presentation() {
-        System.out.println("I'm an animal robot");
+        System.out.println("I'm an artist robot");
     }
 }
